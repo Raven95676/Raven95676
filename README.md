@@ -18,19 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2025 - To: 08 March 2025
+From: 06 March 2025 - To: 09 March 2025
 
-Total Time: 3 hrs 5 mins
+Total Time: 9 hrs 4 mins
 
-Vue.js       1 hr 51 mins    ███████████████░░░░░░░░░░   59.84 %
-JavaScript   25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Python       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Rust         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-XML          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   5 hrs 18 mins   ██████████████▒░░░░░░░░░░   57.40 %
+Vue.js       2 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+TypeScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Python       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->

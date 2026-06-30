@@ -22,6 +22,8 @@ BLACKLIST = {
     "raven95676.github.io",
     "AstrBot_Plugins_Collection",
     "AstrBot-docs",
+    "AstrBot",
+    "cpython",
 }
 
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("PAT") or ""
